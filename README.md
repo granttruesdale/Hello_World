@@ -5,6 +5,7 @@ Grant here, I am just getting started with Github. I lived in Sydney Australia f
 ## Project Title
 **Hello World**
 ## Description
+**Learning how to use Github**
 ## How to Run Program
 ## Files Used
 ## Additional Documentation
