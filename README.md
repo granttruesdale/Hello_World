@@ -1,7 +1,7 @@
 # Hello_World
 BAIS Pro Prep - Practice Repository
 
-I am currently a junior at the University of Iowa studying Business Analytics and Marketing. 
+My name is Grant Truesdale and I am currently a junior at the University of Iowa studying Business Analytics and Marketing. 
 ## Project Title
 **Hello World**
 ## Description
