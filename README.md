@@ -5,7 +5,7 @@ I am currently a junior at the University of Iowa studying Business Analytics an
 ## Project Title
 **Hello World**
 ## Description
-**Learning how to use Github**
+Learning how to use Github
 ## How to Run Program
 ## Files Used
 ## Additional Documentation
