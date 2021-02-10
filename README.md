@@ -1,7 +1,7 @@
 # Hello_World
-BAIS Pro Prep
+BAIS Pro Prep - Practice Repository
 
-Grant here, I am just getting started with Github. I lived in Sydney Australia for three years.
+I am currently a junior at the University of Iowa studying Business Analytics and Marketing. 
 ## Project Title
 **Hello World**
 ## Description
