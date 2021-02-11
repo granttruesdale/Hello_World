@@ -8,5 +8,9 @@ My name is Grant Truesdale and I am currently a junior at the University of Iowa
 *Learning how to use Github*
 ## How to Run Program
 ## Files Used
+1. File one
+2. File two
+3. File three
+4. File four
 ## Additional Documentation
 ## Versioning
