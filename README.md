@@ -5,7 +5,7 @@ My name is Grant Truesdale and I am currently a junior at the University of Iowa
 ## Project Title
 **Hello_World**
 ## Description
-Learning how to use Github
+*Learning how to use Github*
 ## How to Run Program
 ## Files Used
 ## Additional Documentation
