@@ -3,7 +3,7 @@ BAIS Pro Prep - Practice Repository
 
 My name is Grant Truesdale and I am currently a junior at the University of Iowa studying Business Analytics and Marketing. 
 ## Project Title
-**Hello World**
+**Hello_World**
 ## Description
 Learning how to use Github
 ## How to Run Program
